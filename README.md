@@ -3,11 +3,11 @@ A CNN model to classify different plant diseases. Vgg16 net is fine tuned to the
 The dataset can be found at https://www.crowdai.org/challenges/1
 
 # Requirements
-python 2.7
-numpy
-tensorflow
-keras
-OpenCV (can use pillow Library Too)
+- python 2.7
+- numpy
+- tensorflow
+- keras
+- OpenCV (can use pillow Library Too)
 
 
 # Methodology
